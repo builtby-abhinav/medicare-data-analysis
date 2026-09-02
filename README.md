@@ -95,4 +95,3 @@ medicare-data-analysis/
 
 **Abhinav Chinthakayala**
 Aspiring Data Analyst interested in transforming raw data into meaningful insights using SQL, Power BI, Python, and data visualization.
-<img width="1171" height="229" alt="image" src="https://github.com/user-attachments/assets/6e23c673-b182-4ef4-978d-befbb633ddca" />
