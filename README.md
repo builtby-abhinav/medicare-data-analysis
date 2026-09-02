@@ -73,7 +73,7 @@ medicare-data-analysis/
 ├── Data_Cleaning_Medicare.sql
 ├── EDA_Medicare.sql
 ├── Medicare_Inpatient_Analytics_Dashboard.pbix
-├── Medicare_raw.csv
+├── Medicare_raw_zip.zip
 └── README.md
 ```
 
